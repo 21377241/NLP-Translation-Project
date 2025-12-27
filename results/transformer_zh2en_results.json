@@ -1,0 +1,106 @@
+{
+  "bleu": 0.7823772867488867,
+  "num_samples": 200,
+  "samples": [
+    {
+      "source": "记录指出-1曾询问此次活动是否违反了该法案。",
+      "reference": "indicate that about whether the event might violate the provision .",
+      "prediction": "the of a recent years ago , which has been an estimated that it was recently announced in the united states to be considered a major party ."
+    },
+    {
+      "source": "该写道“我们问的一个问题是这是否违反了《法案》，并被告知没有违反。”",
+      "reference": "one question we asked was if it was a violation of the act and were informed it was not , the wrote .",
+      "prediction": "the of this is an important question that we are and his own , which is not a on his book ."
+    },
+    {
+      "source": "“听起来你被了，”道。",
+      "reference": "sounds like you are locked , the deputy .",
+      "prediction": ", was a of life ."
+    },
+    {
+      "source": "白宫将此次“美国制造”活动定义为官方活动，因此不受《法案》管辖。",
+      "reference": "the made in america event was designated an official event by the white house , and would not have been covered by the act .",
+      "prediction": "the us would be a of american , which is an important to negotiate a campaign in his book by president barack obama’s election ."
+    },
+    {
+      "source": "但是即使是官方活动也带有政治色彩。",
+      "reference": "but even official events have political .",
+      "prediction": "but even if even the is not yet to be and political politics , it is an important role in their central banks ."
+    },
+    {
+      "source": "活动中，总统推行当时参议院的议题：医疗改革，并大肆对政府法规的。",
+      "reference": "at the event , the president made a push for healthcare reform efforts then underway in the senate and efforts to in government regulations .",
+      "prediction": "this is a president barack obama the government , and has been made in recent years ago to the president of government officials ."
+    },
+    {
+      "source": "将或飞机用于目的已经不是什么新鲜事。",
+      "reference": "using the aircraft known as marine one or air force one for politically purposes is hardly a new phenomenon .",
+      "prediction": "or , the country will be able to do not have been at least in the entire or no longer can be used to say that of people who are not necessarily over other countries ."
+    },
+    {
+      "source": "总统都被要求需这些飞机。",
+      "reference": "presidents are required to use them for travel .",
+      "prediction": "president barack obama has been to the of these issues , and will be used to do not necessarily people who are being used to be ."
+    },
+    {
+      "source": "但是仅为目的将其并不常见。",
+      "reference": "but their use solely for a is unusual .",
+      "prediction": "but it is not a of its , and will be an important for its own security ."
+    },
+    {
+      "source": "特朗普就受到关注，当时是在墨尔本，总统，最终了他第一次竞选集会的背景，而他的推特账户充斥着对前任总统使用总统的抱怨信息。",
+      "reference": "trump drew in february when the presidential to the backdrop of his first campaign rally in , . , and his twitter account is with messages complaining about his use of the presidential aircraft .",
+      "prediction": "trump is , he was a of his president barack obama , and he had been his by president donald trump’s administration to the former prime minister of his campaign in the first two decades ."
+    },
+    {
+      "source": "白宫副新闻·称“白宫因此次‘美国制造’而，此次展示了来自全部50个州的产品，这些产品均由美国工人使用美国材料制造。”",
+      "reference": "the white house is with the made in america showcase that featured products from all 50 states that are made by american workers with american materials , said white house deputy press secretary .",
+      "prediction": "the us has been , because it was a of america’s saving from the united states to be met with a large part by his book that would not only one another , but also from the us to be able to do so far from all ."
+    },
+    {
+      "source": "-1经常在华盛顿地区附近和南进行飞行训练，将美国总统准确在白宫。",
+      "reference": "frequently perform training flights around the washington area and at the south to practice the president of the united states at the white house with of .",
+      "prediction": "– the united states and has been made in recent years ago , the us to be a major level of america’s country between two decades ."
+    },
+    {
+      "source": "7月初特朗普在德国参加G-20峰会期间，-1在白宫了次。",
+      "reference": "when trump was at the g-20 summit in germany in early july , conducted practice at the white house .",
+      "prediction": "the trump administration has been at least in the united states , and – after a woman to be considered by ."
+    },
+    {
+      "source": "一位官员称，此次美国制造活动飞行计入本月训练要求中。",
+      "reference": "the flight for the made in america event toward the training requirement for the month , an official said .",
+      "prediction": "a , the us was a of an annual law in his prime minister shinzo two years ago , and the united states to be made it is that it was recently announced a woman for all of any country ."
+    },
+    {
+      "source": "部队也额外飞行了11个小时的“非总统支援任务”。",
+      "reference": "unit also an additional 11 hours that day for support missions .",
+      "prediction": "the of the system is a in his country with a year , and has called for an important role in order to be done to address any major oil prices ."
+    },
+    {
+      "source": "白宫方面称纳税人并没有承担此次活动中任何其他的费用。",
+      "reference": "the white house said taxpayers did not pick up the burden for any of the other featured at the event .",
+      "prediction": "the question is not to be a of other states , but it was an other and other issues that there are no one another war ii ."
+    },
+    {
+      "source": "公司并未参与安排南展示。",
+      "reference": "a for said the company was not involved in for the to be on the south .",
+      "prediction": "has been made in the company to the of companies that has been used by a major companies for the next two years ago ."
+    },
+    {
+      "source": "-1并没有保留总统飞行的预算记录，因此要确定此次活动产生的准确费用非常困难。",
+      "reference": "maintain budgetary for presidential flights , and the precise cost by the event is difficult .",
+      "prediction": "– the united states is not a long time to be made it is likely to make a serious that there are not only one of the country’s central banks and thus has been done ."
+    },
+    {
+      "source": "但是根据2017的小时费用，-的可费用为每飞行小时24,美元。",
+      "reference": "but according to department of defense rates for fiscal year 2017 , the rate for the is , per flight hour .",
+      "prediction": "but the of the billion people in sub-saharan africa , i have been a more than one of ."
+    },
+    {
+      "source": "部队记录记录了飞机每次从的基地飞行的时间为30分钟。",
+      "reference": "unit record the aircraft flight time as 30 each way from its home base at marine corps air facility in .",
+      "prediction": "the of a recent from the former prime minister state of and a woman to the british state ."
+    }
+  ]
+}

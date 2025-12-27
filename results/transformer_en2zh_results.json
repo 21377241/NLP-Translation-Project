@@ -1,0 +1,106 @@
+{
+  "bleu": 1.4253096703163415,
+  "num_samples": 200,
+  "samples": [
+    {
+      "source": "indicate that about whether the event might violate the provision .",
+      "reference": "记录指出-1曾询问此次活动是否违反了该法案。",
+      "prediction": "的是，如果你是否会有自己的那样，那么他说他应当将自己。"
+    },
+    {
+      "source": "one question we asked was if it was a violation of the act and were informed it was not , the wrote .",
+      "reference": "该写道“我们问的一个问题是这是否违反了《法案》，并被告知没有违反。”",
+      "prediction": "如果我们知道他的是一个，那么它就能让我们所带来的“什么”（），那就是一个问题上最重要的人。"
+    },
+    {
+      "source": "sounds like you are locked , the deputy .",
+      "reference": "“听起来你被了，”道。",
+      "prediction": "·（）、“我的新的“我”，他还可以在俄罗斯总统），他被称为“新的《一个新的那样；”。"
+    },
+    {
+      "source": "the made in america event was designated an official event by the white house , and would not have been covered by the act .",
+      "reference": "白宫将此次“美国制造”活动定义为官方活动，因此不受《法案》管辖。",
+      "prediction": "美国在过去的上，“”（如果没有什么）和他所指出的“”，那么就会将是个月8日的那样，而不是一个重要。"
+    },
+    {
+      "source": "but even official events have political .",
+      "reference": "但是即使是官方活动也带有政治色彩。",
+      "prediction": "但即使政治的政治也是一个政治事件——甚至不可能的政治和宗教上，而是因为他的政治冲突。"
+    },
+    {
+      "source": "at the event , the president made a push for healthcare reform efforts then underway in the senate and efforts to in government regulations .",
+      "reference": "活动中，总统推行当时参议院的议题：医疗改革，并大肆对政府法规的。",
+      "prediction": "在20世纪90年代，政府总统·和政府官员的改革计划（比如），政府在2004年前举行了一项广泛的国家和暴力活动。"
+    },
+    {
+      "source": "using the aircraft known as marine one or air force one for politically purposes is hardly a new phenomenon .",
+      "reference": "将或飞机用于目的已经不是什么新鲜事。",
+      "prediction": "在中，新的是一个新的国家应该对政治和的情况下，这一方向发展是一个新问题上最重要的。"
+    },
+    {
+      "source": "presidents are required to use them for travel .",
+      "reference": "总统都被要求需这些飞机。",
+      "prediction": "，我们应该使用新的医疗服务。"
+    },
+    {
+      "source": "but their use solely for a is unusual .",
+      "reference": "但是仅为目的将其并不常见。",
+      "prediction": "但他们的是“”（）使用（或使用）的时候，你应当被称为“东北”。"
+    },
+    {
+      "source": "trump drew in february when the presidential to the backdrop of his first campaign rally in , . , and his twitter account is with messages complaining about his use of the presidential aircraft .",
+      "reference": "特朗普就受到关注，当时是在墨尔本，总统，最终了他第一次竞选集会的背景，而他的推特账户充斥着对前任总统使用总统的抱怨信息。",
+      "prediction": "特朗普总统在·（）在他的“总统”（Robert），他还没有被视为“胜利”；他曾是特朗普已经成为了一个人的战争。"
+    },
+    {
+      "source": "the white house is with the made in america showcase that featured products from all 50 states that are made by american workers with american materials , said white house deputy press secretary .",
+      "reference": "白宫副新闻·称“白宫因此次‘美国制造’而，此次展示了来自全部50个州的产品，这些产品均由美国工人使用美国材料制造。”",
+      "prediction": "·（）在美国总统特朗普的“美国人”（The），他还将是美国人都是“俄罗斯”的那样，而日本在从英国退欧战争中扮演了特朗普。"
+    },
+    {
+      "source": "frequently perform training flights around the washington area and at the south to practice the president of the united states at the white house with of .",
+      "reference": "-1经常在华盛顿地区附近和南进行飞行训练，将美国总统准确在白宫。",
+      "prediction": "·（Robert）和美国总统在最近的那样，“美国总统奥巴马政府和韩国的众议院”。"
+    },
+    {
+      "source": "when trump was at the g-20 summit in germany in early july , conducted practice at the white house .",
+      "reference": "7月初特朗普在德国参加G-20峰会期间，-1在白宫了次。",
+      "prediction": "在特朗普上，德国在中的德国（），特朗普在20世纪90年代举行的《》（IMF）》中，而不是日本的“”。"
+    },
+    {
+      "source": "the flight for the made in america event toward the training requirement for the month , an official said .",
+      "reference": "一位官员称，此次美国制造活动飞行计入本月训练要求中。",
+      "prediction": "美国和国际组织的（）在最近的“世界”（），美国总统奥巴马在未来几年中扮演了一个世界上最重要的权利。"
+    },
+    {
+      "source": "unit also an additional 11 hours that day for support missions .",
+      "reference": "部队也额外飞行了11个小时的“非总统支援任务”。",
+      "prediction": "艾滋病运动还将（）的“支持”（）、“支持和尼日利亚科学/3,000万美元的艾滋病规划署与俄罗斯之间的支持。"
+    },
+    {
+      "source": "the white house said taxpayers did not pick up the burden for any of the other featured at the event .",
+      "reference": "白宫方面称纳税人并没有承担此次活动中任何其他的费用。",
+      "prediction": "的其他任何其他国家都没有什么，他不愿意为“伊朗”的人也将其“”。"
+    },
+    {
+      "source": "a for said the company was not involved in for the to be on the south .",
+      "reference": "公司并未参与安排南展示。",
+      "prediction": "·（）在““纳粹”的“什么”是个月，并不是一个“什么”。"
+    },
+    {
+      "source": "maintain budgetary for presidential flights , and the precise cost by the event is difficult .",
+      "reference": "-1并没有保留总统飞行的预算记录，因此要确定此次活动产生的准确费用非常困难。",
+      "prediction": "（）和“”的“你将是“胜利”，他的人是为了在他的战争；而不是特朗普可能会给美国和他所带来的。"
+    },
+    {
+      "source": "but according to department of defense rates for fiscal year 2017 , the rate for the is , per flight hour .",
+      "reference": "但是根据2017的小时费用，-的可费用为每飞行小时24,美元。",
+      "prediction": "但据20世纪90年代末，2017年以来，美国的（）将达到了近10%。"
+    },
+    {
+      "source": "unit record the aircraft flight time as 30 each way from its home base at marine corps air facility in .",
+      "reference": "部队记录记录了飞机每次从的基地飞行的时间为30分钟。",
+      "prediction": "在的中，政府将成为了其“”（比如）的“为基础上，以使它们在未来几年中获得可持续发展目标。"
+    }
+  ]
+}

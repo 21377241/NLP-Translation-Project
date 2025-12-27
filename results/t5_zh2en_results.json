@@ -1,0 +1,30 @@
+{
+  "model": "T5",
+  "direction": "zh2en",
+  "bleu_score": 2.25,
+  "num_samples": 200,
+  "translation_samples": [
+    {
+      "prediction": "In fact, HMX reported that the HMX failed to explain why the initiative was against the agreement.",
+      "reference": "Records indicate that HMX-1 inquired about whether the event might violate the provision."
+    },
+    {
+      "prediction": "But the supervisor explained that we have asked what is a threat to the US Constitution, and told that it is not a threat to the US.",
+      "reference": "\"One question we asked was if it was a violation of the Hatch Act and were informed it was not,\" the commander wrote."
+    },
+    {
+      "prediction": "In fact, you are locked in a prison,” chief officer said.",
+      "reference": "\"Sounds like you are locked,\" the Deputy Commandant replied."
+    },
+    {
+      "prediction": "The US government will introduce this “American manufacturing” initiative as a public event, because it is not a public initiative.",
+      "reference": "The \"Made in America\" event was designated an official event by the White House, and would not have been covered by the Hatch Act."
+    },
+    {
+      "prediction": "But even if a public event is a political color, it is a political color.",
+      "reference": "But even official events have political overtones."
+    }
+  ],
+  "checkpoint": "/mnt/afs/250010036/course/NLP/experiments/t5_zh2en/best_model",
+  "evaluation_time": "2025-12-28 02:04:06"
+}

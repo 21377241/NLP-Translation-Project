@@ -1,0 +1,106 @@
+{
+  "bleu": 0.35844026579579974,
+  "num_samples": 200,
+  "samples": [
+    {
+      "source": "记录指出-1曾询问此次活动是否违反了该法案。",
+      "reference": "indicate that about whether the event might violate the provision .",
+      "prediction": "the of the in a new years , and to be a of the us to that it is not an new policy for its own states , which are been a . in the and of china ."
+    },
+    {
+      "source": "该写道“我们问的一个问题是这是否违反了《法案》，并被告知没有违反。”",
+      "reference": "one question we asked was if it was a violation of the act and were informed it was not , the wrote .",
+      "prediction": "the of , the to a new of in the us and , it is not a that he are be to for a own policy or be an , as what it would been to ."
+    },
+    {
+      "source": "“听起来你被了，”道。",
+      "reference": "sounds like you are locked , the deputy .",
+      "prediction": "the of , , in the and a new minister to a of the us , in her years that it was not to by a own union for the . . and its states of which"
+    },
+    {
+      "source": "白宫将此次“美国制造”活动定义为官方活动，因此不受《法案》管辖。",
+      "reference": "the made in america event was designated an official event by the white house , and would not have been covered by the act .",
+      "prediction": "the of to the a , in the , and a new states of which was be to in its years that it is not an for her countries and . . of the us ."
+    },
+    {
+      "source": "但是即使是官方活动也带有政治色彩。",
+      "reference": "but even official events have political .",
+      "prediction": "but if the , that the to a of in the us , and it is not to a new of which would be an own countries for its countries , in china . as a of"
+    },
+    {
+      "source": "活动中，总统推行当时参议院的议题：医疗改革，并大肆对政府法规的。",
+      "reference": "at the event , the president made a push for healthcare reform efforts then underway in the senate and efforts to in government regulations .",
+      "prediction": "the , , of the to a of in the and , and a new states for which as an to that it is not be a new policy in its countries . . by their"
+    },
+    {
+      "source": "将或飞机用于目的已经不是什么新鲜事。",
+      "reference": "using the aircraft known as marine one or air force one for politically purposes is hardly a new phenomenon .",
+      "prediction": "the of to the a in the , and a new states of which was be to by an , that it is not in their own union for the us and . . to be"
+    },
+    {
+      "source": "总统都被要求需这些飞机。",
+      "reference": "presidents are required to use them for travel .",
+      "prediction": "the of , the in a new years and the us to be a of that as an new states – which has been to by its own union , and the . in china . for"
+    },
+    {
+      "source": "但是仅为目的将其并不常见。",
+      "reference": "but their use solely for a is unusual .",
+      "prediction": "but the of the to a new , and the us of in a countries , that it is not to be a for its own states , and as the us of in china . to"
+    },
+    {
+      "source": "特朗普就受到关注，当时是在墨尔本，总统，最终了他第一次竞选集会的背景，而他的推特账户充斥着对前任总统使用总统的抱怨信息。",
+      "reference": "trump drew in february when the presidential to the backdrop of his first campaign rally in , . , and his twitter account is with messages complaining about his use of the presidential aircraft .",
+      "prediction": ", the of the , in a of to be a new and the us was not an to that he had been a new years . . in his own states . . of"
+    },
+    {
+      "source": "白宫副新闻·称“白宫因此次‘美国制造’而，此次展示了来自全部50个州的产品，这些产品均由美国工人使用美国材料制造。”",
+      "reference": "the white house is with the made in america showcase that featured products from all 50 states that are made by american workers with american materials , said white house deputy press secretary .",
+      "prediction": "the of the , in a of to be a new years , and the us was not an to that he had been a new states for his own years . . in its year of"
+    },
+    {
+      "source": "-1经常在华盛顿地区附近和南进行飞行训练，将美国总统准确在白宫。",
+      "reference": "frequently perform training flights around the washington area and at the south to practice the president of the united states at the white house with of .",
+      "prediction": "the of the in a new minister , and the , of a to be an woman to in her years and which was been a own states that it is not to . . for its"
+    },
+    {
+      "source": "7月初特朗普在德国参加G-20峰会期间，-1在白宫了次。",
+      "reference": "when trump was at the g-20 summit in germany in early july , conducted practice at the white house .",
+      "prediction": "the , in the of a , in the , and a new states to be an of that he was not to by her years and it is not a . . for its own years"
+    },
+    {
+      "source": "一位官员称，此次美国制造活动飞行计入本月训练要求中。",
+      "reference": "the flight for the made in america event toward the training requirement for the month , an official said .",
+      "prediction": "in the , , of a of the to a new years and the us , in her countries to be an that it is not a new union for its own states . . by the"
+    },
+    {
+      "source": "部队也额外飞行了11个小时的“非总统支援任务”。",
+      "reference": "unit also an additional 11 hours that day for support missions .",
+      "prediction": "the of the , in a of to the us and a new woman , which was be to by her years that it is not an in its own states . . for the world of"
+    },
+    {
+      "source": "白宫方面称纳税人并没有承担此次活动中任何其他的费用。",
+      "reference": "the white house said taxpayers did not pick up the burden for any of the other featured at the event .",
+      "prediction": "the of the to a new in the , and a new states of which is not to by its countries for the us , and it are be an that they have been more than their years ."
+    },
+    {
+      "source": "公司并未参与安排南展示。",
+      "reference": "a for said the company was not involved in for the to be on the south .",
+      "prediction": "the of the of a new woman , in the us and to be a to that his president , and the us in her years for which is not an own . . to"
+    },
+    {
+      "source": "-1并没有保留总统飞行的预算记录，因此要确定此次活动产生的准确费用非常困难。",
+      "reference": "maintain budgetary for presidential flights , and the precise cost by the event is difficult .",
+      "prediction": "the of the , in a , and it is not to a new states of the us , that he would be to for a own union in which are be to . . of its"
+    },
+    {
+      "source": "但是根据2017的小时费用，-的可费用为每飞行小时24,美元。",
+      "reference": "but according to department of defense rates for fiscal year 2017 , the rate for the is , per flight hour .",
+      "prediction": "but the of , in the , and a of to be a new that the us was an to in her years and which is not been a own . . for his years of"
+    },
+    {
+      "source": "部队记录记录了飞机每次从的基地飞行的时间为30分钟。",
+      "reference": "unit record the aircraft flight time as 30 each way from its home base at marine corps air facility in .",
+      "prediction": "the , the of a in the , and to be a new of her years to an woman in which , and us was not that it is not to for their own states . ."
+    }
+  ]
+}
