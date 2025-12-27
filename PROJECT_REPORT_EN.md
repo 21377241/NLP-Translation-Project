@@ -3,8 +3,7 @@
 
 ---
 
-**Project GitHub Repository**: [To be filled with your GitHub URL]
-
+**Project GitHub Repository**: https://github.com/21377241/NLP-Translation-Project
 **Course Name**: Natural Language Processing and Large Language Models  
 **Project Topic**: Bidirectional Chinese-English Machine Translation  
 **Submission Date**: December 28, 2025

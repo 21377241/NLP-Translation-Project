@@ -34,11 +34,16 @@ ENV/
 
 # Model checkpoints and training outputs
 checkpoints/
+
+# 排除训练好的模型（文件太大，超过 GitHub 限制）
 experiments/
-*.ckpt
+# 如果需要上传特定实验，可以用 git add -f 强制添加
+
+# 排除大型模型权重文件（超过 100MB）
+*.bin
 *.pth
 *.pt
-*.bin
+*.ckpt
 *.safetensors
 
 # Data files (large datasets)
@@ -63,4 +68,3 @@ Thumbs.db
 
 # Environment variables
 .env
-
