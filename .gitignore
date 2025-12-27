@@ -54,7 +54,7 @@ data/processed/
 *.json.gz
 
 # Results and logs
-# results/ - 注释掉，需要上传结果文件
+results/
 logs/
 *.log
 wandb/
